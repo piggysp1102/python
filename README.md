@@ -2,7 +2,7 @@
 
 This is a script for exporting images in batches in ArcMap. It helps you save much time in repeating same work when using ArcMap.
 
-##Installation
+## Installation
 
 Open ArcMap and choose any workspace, right click on ArcToolbox, and click Add Toolbox. Write a name for the toolbox like 'exporting-images-in-batches'.
 Next, Browse the location where you saved the py file and choose it.
